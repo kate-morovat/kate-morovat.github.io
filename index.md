@@ -4,24 +4,24 @@
 
 ### Category Name 1 
 
-[Data processing](/sample_page)
+[Data processing](/data-science/data_processing_assignment.ipynb)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+https://github.com/kate-morovat/kate-morovat.github.io/blob/main/data-science/data_processing_assignment.ipynb
+---
+[ML - Linear Regression](/data-science/linear_regression_assignment.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[ML - Linear Regression](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[ML - Decision Tree](http://example.com/)
+[ML - Decision Tree](/data-science/decision_tree_assignment.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Data Processing](http://example.com/)
-- [ML - Linear Regression](http://example.com/)
-- [ML - Decision Tree](http://example.com/)
+- [Data Processing](https://github.com/kate-morovat/kate-morovat.github.io/blob/main/data-science/data_processing_assignment.ipynb)
+- [ML - Linear Regression](https://github.com/kate-morovat/kate-morovat.github.io/blob/main/data-science/linear_regression_assignment.ipynb)
+- [ML - Decision Tree](https://github.com/kate-morovat/kate-morovat.github.io/blob/main/data-science/decision_tree_assignment.ipynb)
 - [ML - Unsuppervised](http://example.com/)
 - [ML - Reinforcement](http://example.com/)
 
