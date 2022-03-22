@@ -7,6 +7,7 @@
 [Data processing](/data-science/data_processing_assignment.ipynb)
 <img src="images/data_processing.png?raw=true"/>
 https://github.com/kate-morovat/kate-morovat.github.io/blob/main/data-science/data_processing_assignment.ipynb
+
 ---
 [ML - Linear Regression](/data-science/linear_regression_assignment.ipynb)
 <img src="images/linear_regression.jpg?raw=true"/>
