@@ -5,15 +5,18 @@
 ### Category Name 1 
 
 [Data processing](/data-science/data_processing_assignment.ipynb)
+
 <img src="images/data_processing.png?raw=true"/>
 
 
 ---
 [ML - Linear Regression](/data-science/linear_regression_assignment.ipynb)
+
 <img src="images/linear_regression.jpg?raw=true"/>
 
 ---
 [ML - Decision Tree](/data-science/decision_tree_assignment.ipynb)
+
 <img src="images/decision_tree.png?raw=true"/>
 
 ---
